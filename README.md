@@ -1,566 +1,104 @@
-<br/>
+<h1 align="center"> 🖥   Nathanaël Benichou   🖥</h1>
+<h1 align="center">📋 Computer Science student At Ariel University  📋</h2>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45073703/177566625-9b84e793-4559-4475-ba54-8d3d5f4123d4.png" width="35%">
+<li> 📍 French Student living in Israel</li>
+<li> 👄 I speak French, English and Hebrew </li>
+<li> 💬 <a href="https://www.linkedin.com/in/nathanael-benichou-29b815117/"><img src="https://camo.githubusercontent.com/f28aed6fa39b337618685d0389b0f3018885aeed9910b68b5e0f9ada8d7057f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d687474703a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6579616c6576692f"/></a> </li>
+<li> 📫 Email: <a href="mailto:nathbenich736@gmail.com">nathbenich736@gmail.com</a></li>
+<li> 🛡 CV Online: https://nathanael-benichou.fr/</li>
+<li> 🖥 Full stack Developer: https://2bdigital.co/</li>
 
-  <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
+<h2 align="left">My Stack (M-E-R-N)  🖥 </h2>
+ <p align="left">
+   <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="M"/>
+   <img src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" alt="E" />
+   <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="R" />
+   <img src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="N" />
+ </p>
 
-  <p align="center">
-    <a href="https://codeclimate.com/github/arifszn/gitprofile/maintainability">
-      <img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" />
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml">
-      <img src="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml/badge.svg" />
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/issues">
-      <img src="https://img.shields.io/github/issues/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/stargazers">
-      <img src="https://img.shields.io/github/stars/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/network/members">
-      <img src="https://img.shields.io/github/forks/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/package-lock.json">
-      <img src="https://img.shields.io/snyk/vulnerabilities/github/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md">
-      <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/arifszn/gitprofile"/>
-    </a>
-    <a href="https://www.buymeacoffee.com/arifszn">
-      <img src="https://img.shields.io/badge/sponsor-buy%20me%20a%20coffee-yellow?logo=buymeacoffee"/>
-    </a>
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/arifszn/gitprofile&hashtags=javascript,opensource,js,webdev,developers">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Farifszn%2Fgitprofile"/>
-    </a>
-  </p>
 
-  <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
-  </p>
+
+
+<h2 align="left">Languages  ⌨️ </h2>
+<p align="left">
+   <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
+   <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/e8ba07fa7cc79831afca90c574b74f1eefd0bf76af4e498cb0674330a1634e2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3233393132303f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://camo.githubusercontent.com/bbcf428f2a433709e9cdcc0a3c2aff25823cf2dd6aeea993f3570695a74dfacc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3344444338342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465"/>
+
 </p>
 
-<p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://arifszn.github.io/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
-  </a>
-  <br/>
-  <a href="#arifszn"><img src="https://arifszn.github.io/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
+
+
+
+<h2 align="left">DataBase  📂</h2>
+<p align="left">
+   <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
+   <img src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b"/>
+
 </p>
 
-**GitProfile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
 
-**Features:**
 
-✓ [Easy to Setup](#-installation--setup)  
-✓ [30 Themes](#themes)  
-✓ [Google Analytics](#google-analytics)  
-✓ [Hotjar](#hotjar)  
-✓ [SEO](#seo)  
-✓ [Avatar and Bio](#avatar-and-bio)  
-✓ [Social Links](#social-links)  
-✓ [Skill Section](#skills)  
-✓ [Experience Section](#experience)  
-✓ [Education Section](#education)  
-✓ [Projects Section](#projects)  
-✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+<h2 align="left">Tools  🛠</h2>
+<p align="left"> 
+ <img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
 
-Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
+<img src="https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
+<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
+<img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
 
-<p align="center">
-  <img src="https://arifszn.github.io/assets/img/hosted/gitprofile/themes.png" alt="Themes">
+
+
 </p>
 
-## 🎉 Thank you for the 500 ★
 
-<p>
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://user-images.githubusercontent.com/45073703/202119579-eae272bd-ed39-434d-9361-df25308e0691.gif" alt="Thank You" width="50%"/>
-  </a>
-</p>
 
-## 🛠 Installation & Setup
+<h2 align="left">Github Statistics</h2>
+<center>
+<a align="center" href="https://github.com/Golem97/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Golem97&show_icons=true&theme=react&bg_color=DEG,000000,000000,2544e1" width="450" height="200"/>
+</a> 
 
-There are three ways to use **GitProfile**. Use any.
+<a align="center" href="https://github.com/Golem97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golem97&layout=compact&theme=react&bg_color=DEG,000000,000000,2544e1" width="380" height="200"  />
+</a>
+</center>
 
-- Forking this repo _(recommended)_
-- Setting up locally
-- Installing as package
 
-### Forking this repo
 
-These instructions will get you a copy of the project and deploy your portfolio online!
+<h2>Centers of Interest</h2>
+<p align="left">
+<h3 align="left"><a id="" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
+<a href="#">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/hot-beverage_2615.png" alt="coffee" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/hot-beverage_2615.png" style="max-width:100%;"> </a><a href="#">
+ 
+ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/desktop-computer_1f5a5-fe0f.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/desktop-computer_1f5a5-fe0f.png" style="max-width:100%;">
 
-- **Fork repo:** Click [here](https://github.com/arifszn/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
-- **Rename repo:**
-  - If you want to host your portfolio at `https://<USERNAME>.github.io`, rename your forked repository to `username.github.io` in GitHub, where `username` is your GitHub username (or organization name).
-  - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO>` (e.g. `portfolio`) in GitHub.
-- **Enable workflows:** Go to your repo's **Actions** tab and enable workflows.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/soccer-ball_26bd.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/person-surfing_1f3c4.png" style="max-width:100%;">
 
-  ![Workflows](https://arifszn.github.io/assets/img/hosted/gitprofile/workflows.png)
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/tennis_1f3be.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/tennis_1f3be.png" style="max-width:100%;">
 
-- **Base Value:** Open `vite.config.js`, and change `base`'s value.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/basketball_1f3c0.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/basketball_1f3c0.png" style="max-width:100%;">
 
-  - If you are deploying to `https://<USERNAME>.github.io`, set `base` to `'/'`.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/clapper-board_1f3ac.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/clapper-board_1f3ac.png" style="max-width:100%;">
 
-  - If you are deploying to `https://<USERNAME>.github.io/<REPO>` (e.g. `https://<USERNAME>.github.io/portfolio`), then set `base` to `'/<REPO>/'` (e.g. `'/portfolio/'`).
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/man-cook_1f468-200d-1f373.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/clapper-board_1f3ac.png" style="max-width:100%;">
 
-  ```js
-  // vite.config.js
-  {
-    base: '/',
-    // ...
-  }
-  ```
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/artist-palette_1f3a8.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/artist-palette_1f3a8.png" style="max-width:100%;">
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" alt="surf" width="35" height="35" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/musical-keyboard_1f3b9.png" style="max-width:100%;">
 
-Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `vite.config.js` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
-If you wish to add a custom domain, no CNAME file is required. Just add it to your repo's **Settings** ➜ **Pages** ➜ **Custom domain**.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/wolf_1f43a.png" alt="surf" width="35" height="35" data-canonical-href="https://www.instagram.com/wolfirsky/" style="max-width:100%;">
 
-As this is a Vite project, you can also host your website to Netlify, Vercel, Heroku, or other popular services. Please refer to this [doc](https://vitejs.dev/guide/static-deploy.html) for a detailed deployment guide to other services.
-
-### Setting up locally
-
-- Clone the project and change directory.
-
-  ```shell
-  git clone https://github.com/arifszn/gitprofile.git
-  cd gitprofile
-  ```
-
-- Install dependencies.
-
-  ```shell
-  npm install
-  ```
-
-- Run dev server.
-
-  ```shell
-  npm run dev
-  ```
-
-- Finally, visit [`http://localhost:5173/gitprofile/`](http://localhost:5173/gitprofile/) from your browser.
-
-### Installing as package
-
-You can also use **GitProfile** by installing as an NPM package. First Install **GitProfile** via <a href="https://www.npmjs.com/package/@arifszn/gitprofile">NPM</a>.
-
-```sh
-npm install @arifszn/gitprofile
-```
-
-Or via <a href="https://yarnpkg.com/package/@arifszn/gitprofile">Yarn</a>.
-
-```sh
-yarn add @arifszn/gitprofile
-```
-
-Then, import the package, import and style and provide the config.
-
-```js
-import GitProfile from '@arifszn/gitprofile';
-import '@arifszn/gitprofile/dist/style.css';
-
-function App() {
-  return (
-    <GitProfile
-      config={{
-        github: {
-          username: 'arifszn',
-        },
-      }}
-    />
-  );
-}
-
-export default App;
-```
-
-List of all config [here](#-customization).
-
-**If you face any problems or have any questions, open an issue [here](https://github.com/arifszn/gitprofile/issues).**
-
-## 🎨 Customization
-
-All the magic happens in the file `gitprofile.config.js`. Open it and modify it according to your preference.
-
-```js
-// gitprofile.config.js
-
-const config = {
-  github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 8, // How many projects to display.
-    exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
-    },
-  },
-  social: {
-    linkedin: '',
-    twitter: '',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: '',
-    dev: '',
-    stackoverflow: '',
-    website: '',
-    phone: '',
-    email: '',
-  },
-  resume: {
-    fileUrl: 'https://drive.google.com/file/d/10krRl0HK5K1gqtztEpbvuKLdzaszyN-3/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
-  },
-  skills: ['JavaScript', 'React.js'],
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-  education: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
-  // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 5, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
-  themeConfig: {
-    defaultTheme: 'light',
-
-    // Hides the theme change switch
-    // Useful if you want to support a single color mode
-    disableSwitch: false,
-
-    // Should use the prefers-color-scheme media-query,
-    // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: true,
-
-    // Hide the ring in Profile picture
-    hideAvatarRing: false,
-
-    // Available themes. To remove any theme, exclude from here.
-    themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'procyon',
-    ],
-
-    // Custom theme
-    customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
-    },
-  },
-};
-```
-
-### Themes
-
-There are 30 themes available that can be selected from the dropdown.
-
-The default theme can be specified.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  themeConfig: {
-    defaultTheme: 'light',
-    // ...
-  },
-};
-```
-
-<p align="center">
-  <img src="https://arifszn.github.io/assets/img/hosted/gitprofile/theme-dropdown.png" alt="Theme Dropdown" width="50%">
-</p>
-
-You can create your own custom theme by modifying these values. Theme `procyon` will have the custom styles.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  themeConfig: {
-    customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
-    },
-    // ...
-  },
-};
-```
-
-### Google Analytics
-
-**GitProfile** supports both GA3 and GA4. If you do not want to use Google Analytics, keep the `id` empty.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  googleAnalytics: {
-    id: '',
-  },
-};
-```
-
-Besides tracking visitors, it will track `click events` on projects and blog posts, and send them to Google Analytics.
-
-### Hotjar
-
-**GitProfile** supports [hotjar](https://www.hotjar.com) to track visitor interaction and behavior. If you do not want to use Hotjar, keep the `id` empty.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
-};
-```
-
-### SEO
-
-Meta tags will be auto-generated from configs dynamically. However, you can also manually add meta tags in `public/index.html`.
-
-### Avatar and Bio
-
-Your avatar and bio will be fetched from GitHub automatically.
-
-### Social Links
-
-You can link your social media services you're using, including LinkedIn, Twitter, Facebook, Instagram, Dribbble, Behance, Medium, dev, Stack Overflow, personal website, phone and email.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: '',
-    dev: '',
-    stackoverflow: '',
-    website: '',
-    phone: '',
-    email: '',
-  },
-};
-```
-
-### Skills
-
-To showcase your skills provide them here.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  skills: ['JavaScript', 'React.js'],
-};
-```
-
-Empty array will hide the skills section.
-
-### Experience
-
-Provide your job history in `experiences`.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-};
-```
-
-Empty array will hide the experience section.
-
-### Education
-
-Provide your education history in `education`.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  education: [
-    {
-      institution: 'Institution name 1',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution name 2',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
-    },
-  ],
-};
-```
-
-Empty array will hide the education section.
-
-### Projects
-
-Your public repo from GitHub will be displayed here automatically. You can limit how many projects do you want to be displayed. Also, you can hide forked or specific repo.
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  github: {
-    username: 'arifszn',
-    sortBy: 'stars',
-    limit: 8,
-    exclude: {
-      forks: false,
-      projects: ['my-project1', 'my-project2'],
-    },
-  },
-};
-```
-
-### Blog Posts
-
-If you have [medium](https://medium.com) or [dev](https://dev.to) account, you can show your recent blog posts in here just by providing your medium/dev username. You can limit how many posts to display (Max is `10`).
-
-```js
-// gitprofile.config.js
-module.exports = {
-  // ...
-  blog: {
-    source: 'dev',
-    username: 'arifszn',
-    limit: 5,
-  },
-};
-```
-
-![Blog](https://arifszn.github.io/assets/img/hosted/gitprofile/blog.png)
-
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
-
-## 💖 Support
-
-<p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
 </a>
 
-## 💡 Contribute
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEI_hL3Sj8&#x2F;view?utm_content=DAEI_hL3Sj8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">JUST A SITE </a> par Nath Ben
 
-To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md).
-
-## 📄 License
-
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
-# Portfolio-Nathanael-Benichou
